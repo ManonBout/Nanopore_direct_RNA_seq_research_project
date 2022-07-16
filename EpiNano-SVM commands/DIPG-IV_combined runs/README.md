@@ -20,7 +20,7 @@ java -jar picard.jar CreateSequenceDictionary R=DIPG_IV_DRNA_20220314_and_202204
 ```
 
 
-### Running EpiNano-SVM on NHA-hTERT
+### Running EpiNano-SVM on DIPG-IV combined data
 
 ## Step 1. Extract base-calling error features
 
