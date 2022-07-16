@@ -197,7 +197,7 @@ xpore diffmod --config config.yaml --resume --n_processes 16
 xpore postprocessing --diffmod_dir out
 ```
 
-### Filter the file on RRACH motif 5-mers
+### Filter the file for RRACH motif 5-mers
 
 ```sh
 # A script was made to do this
